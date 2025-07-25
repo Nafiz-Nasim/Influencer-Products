@@ -20,7 +20,7 @@ Check out the live demo: [https://sunny-pothos-7f007a.netlify.app/](https://sunn
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="mobile%20view/Mobile_compressed.png" alt="Mobile View" width="300">
-  <img src="mobile%20view/Mobile.pdf" alt="Mobile PDF" width="300">
+
 </div>
 
 ## Technologies Used
